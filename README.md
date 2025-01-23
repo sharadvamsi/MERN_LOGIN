@@ -20,6 +20,12 @@ Basic flow:
 6. when you clicked on create account but it turns to creating text. if all provided inputs are correct then you will be redirected to login page.
 7.  so you can login using email and password which is provided by you while creating account.
 
+Technologies used:
+node and express js for backend
+react js for frontend
+cloudinary for storing image in cloud
+mongodb atlas for database
+
 
 
 setup instructions:
